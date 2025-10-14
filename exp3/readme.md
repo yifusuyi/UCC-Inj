@@ -1,4 +1,5 @@
 ## Run commands
+You need to create subdirectories with corresponding names before running the following script.
 
 ```bash
 bash test_qwen3.sh
