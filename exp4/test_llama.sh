@@ -1,0 +1,2 @@
+nohup python meta-llama/Llama-3.1-8B-Instruct test_LLama3-1_8B.py ../datasets/gsm8k/problemset_encoded0.jsonl LLama3-1_8B/e0.jsonl False&
+nohup python meta-llama/Llama-3.1-70B-Instruct test_LLama3-1_70B.py ../datasets/gsm8k/problemset_encoded0.jsonl LLama3-1_70B/e0.jsonl False&

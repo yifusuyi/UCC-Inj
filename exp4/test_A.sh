@@ -1,0 +1,1 @@
+nohup python test_A.py ./dataset/problemset_encodedA1.jsonl qwen3_30B_A/e1.jsonl False&
