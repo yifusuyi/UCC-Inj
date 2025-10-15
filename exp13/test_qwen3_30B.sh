@@ -1,0 +1,24 @@
+python test_qwen3_30B.py ./dataset/problemset_encoded_0_0.jsonl qwen3_30B_normal/e00.jsonl False &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_0_1.jsonl qwen3_30B_normal/e01.jsonl False &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_0_2.jsonl qwen3_30B_normal/e02.jsonl False &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_1_0.jsonl qwen3_30B_normal/e10.jsonl False &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_1_1.jsonl qwen3_30B_normal/e11.jsonl False &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_1_2.jsonl qwen3_30B_normal/e12.jsonl False &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_2_0.jsonl qwen3_30B_normal/e20.jsonl False &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_2_1.jsonl qwen3_30B_normal/e21.jsonl False &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_2_2.jsonl qwen3_30B_normal/e22.jsonl False &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_3_0.jsonl qwen3_30B_normal/e30.jsonl False &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_3_1.jsonl qwen3_30B_normal/e31.jsonl False &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_3_2.jsonl qwen3_30B_normal/e32.jsonl False &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_0_0.jsonl qwen3_30B_normal/e00.jsonl True &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_0_1.jsonl qwen3_30B_normal/e01.jsonl True &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_0_2.jsonl qwen3_30B_normal/e02.jsonl True &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_1_0.jsonl qwen3_30B_normal/e10.jsonl True &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_1_1.jsonl qwen3_30B_normal/e11.jsonl True &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_1_2.jsonl qwen3_30B_normal/e12.jsonl True &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_2_0.jsonl qwen3_30B_normal/e20.jsonl True &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_2_1.jsonl qwen3_30B_normal/e21.jsonl True &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_2_2.jsonl qwen3_30B_normal/e22.jsonl True &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_3_0.jsonl qwen3_30B_normal/e30.jsonl True &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_3_1.jsonl qwen3_30B_normal/e31.jsonl True &&
+python test_qwen3_30B.py ./dataset/problemset_encoded_3_2.jsonl qwen3_30B_normal/e32.jsonl True
