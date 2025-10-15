@@ -18,3 +18,5 @@ You should use `conda env create -f envir.yml` to load the environments. For exp
 You may read the `readme.md` in each experiments for details.
 
 Note that you should have C++ compiler with standard C++23 to compile `.cc` files. You may need `GCC15`.
+
+This project used `json.hpp` from `https://github.com/nlohmann/json`.
