@@ -3,7 +3,7 @@ Here is the experiment for test models when prompted to denoise.
 ## Run commands
 
 You need to create subdirectories with corresponding names before running the following script.
-(`normal` indicates to append `/nothing` in the end of prompt.)
+(`normal` indicates to append `/nothinking` in the end of prompt.)
 
 ```bash
 bash test_qwen3_30B.sh
