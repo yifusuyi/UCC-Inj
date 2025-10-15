@@ -1,4 +1,4 @@
-Here is the experiment for test models with character level tokenization.
+Here is the experiment for test models when prompted to denoise.
 
 ## Run commands
 
